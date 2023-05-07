@@ -17,12 +17,12 @@ For matching, a reference implementation called "PhonebookReferenceImplementatio
 Explanatory comments and variable names have been discarded intentionally.
 Be prepared to answer the following questions:
 * What type of matching does this implementation provide?
-* How do you rate this implementation with respect to functionality and performance?
+* How do you rate this implementation with respect to functionality and run-time performance?
 
-Please come up with your own implementation of the "PhonebookInterface"!
+Please come up with your own implementation of the matching "PhonebookInterface"!
 It is permissable to use off-the-shelf npm modules for this task.
 Be prepared to answer the following questions:
 * What have been your design objectives?
-* How do you rate your implementation with respect to functionality and performance?
+* How do you rate your implementation with respect to functionality and run-time performance?
 * Why did you opt for the off-the-shelf modules used, if any?
 
