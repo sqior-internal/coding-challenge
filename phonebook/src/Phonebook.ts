@@ -61,7 +61,7 @@ export class PhonebookReferenceImplementation implements PhonebookInterface {
       }
 
     /*              */
-    const s = [...m.entries()].sort((a, b) => { return (a[1] > b[1]) ? -1 : (a[1] < b[1]) ? 1 : 0 });
+    const s = [...m.entries()].sort((a, b) => { return b[1] - a[1]; });
 
     /*              */
     return s.map((e) => { return e[0]; });
