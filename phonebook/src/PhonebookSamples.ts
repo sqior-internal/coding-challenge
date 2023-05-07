@@ -59,7 +59,7 @@ export const PhonebookSamples: PhonebookEntry[] =
   { "firstName": "Lois", "lastName": "Edwards", "phoneNumber": "208-743-6457" },
   { "firstName": "Steven", "lastName": "Stewart", "phoneNumber": "319-479-3285" },
   { "firstName": "Joshua", "lastName": "Flores", "phoneNumber": "915-749-5103" },
-  { "firstName": "Kathryn", "lastName": "Morris", "phoneNumber": "231-226-3865" },
+  { "firstName": "Kathryn", "lastName": "Marris", "phoneNumber": "231-226-3865" },
   { "firstName": "Thomas", "lastName": "Nguyen", "phoneNumber": "925-722-2054" },
   { "firstName": "Marie", "lastName": "Murphy", "phoneNumber": "404-711-5105" },
   { "firstName": "Jeffrey", "lastName": "Rivera", "phoneNumber": "715-731-1745" },
