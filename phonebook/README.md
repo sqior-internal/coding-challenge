@@ -11,6 +11,8 @@ The app already contains an input field that allows to enter a search term.
 Your job is to create React GUI components to dynamically present preliminary results when entering a search term.
 The best matches in comparison to an existing set of phonebook entries shall be presented (see screenshot as reference).
 
+![image](https://user-images.githubusercontent.com/102817241/236702010-4ee50ae4-f287-4d79-aef8-4e0a83f5e509.png)
+
 For matching, a reference implementation called "PhonebookReferenceImplementation" is provided.
 Explanatory comments and variable names have been discarded intentionally.
 Be prepared to answer the following questions:
