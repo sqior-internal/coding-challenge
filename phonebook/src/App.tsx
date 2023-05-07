@@ -1,6 +1,12 @@
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
+import { PhonebookReferenceImplementation } from './Phonebook';
+import { PhonebookSamples } from './PhonebookSamples';
+
+
+const phonebook = new PhonebookReferenceImplementation(PhonebookSamples);
+
 
 function App() {
   return (
