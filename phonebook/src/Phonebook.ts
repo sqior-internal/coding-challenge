@@ -73,6 +73,9 @@ export class PhonebookReferenceImplementation implements PhonebookInterface {
   private o(name: string) {
 
     /*              */
+    name = name.toLowerCase();
+
+    /*              */
     const res: [string, number][] = [[name, 1]];
 
     /*              */
