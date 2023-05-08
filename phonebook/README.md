@@ -7,7 +7,7 @@ This coding challenge is designed by sqior medical to allow you to demonstrate t
 
 ## Set-up
 
-- Please retrieve the repository "coding-challenge" via git clone.
+- Please retrieve the repository "coding-challenge" via git clone - do not fork as this will be visible to other users.
 - Install node.js, if not installed yet.
 - Switch to the directory "phonebook".
 - Run "npm install".
