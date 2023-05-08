@@ -5,6 +5,15 @@ This coding challenge is designed by sqior medical to allow you to demonstrate t
 * Ability to create React components
 * Ability to create own Typescript logic code
 
+## Set-up
+
+Please retrieve the directory "phonebook" via git clone.
+Install node.js, if not installed yet.
+Switch to the directory "phonebook".
+Run "npm install".
+Run "npm start" - a browser should open rendering the app.
+Use you favorite editor for programming, the app should update automatically after saving.
+
 ## Tasks
 
 The app already contains an input field that allows to enter a search term.
